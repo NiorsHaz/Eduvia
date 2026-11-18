@@ -1,4 +1,4 @@
-# Lycée Horizon — High School Management & Administration System
+# Eduvia — High School Management & Administration System
 
 An API-first school administration system built from *High School Management & Administration System — Updated Scope and Implementation* (v1.1). Phases 1–3 of the blueprint are implemented: school structure and student records, configurable academic rules with results and report cards, and an append-only finance module with receipts and approvals.
 
